@@ -1,0 +1,7 @@
+C:\Users\pryim\RiderProjects\Task5OP\Task5OP\obj\Debug\net8.0\Task5OP.csproj.AssemblyReference.cache
+C:\Users\pryim\RiderProjects\Task5OP\Task5OP\obj\Debug\net8.0\Task5OP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pryim\RiderProjects\Task5OP\Task5OP\obj\Debug\net8.0\Task5OP.AssemblyInfoInputs.cache
+C:\Users\pryim\RiderProjects\Task5OP\Task5OP\obj\Debug\net8.0\Task5OP.AssemblyInfo.cs
+C:\Users\pryim\RiderProjects\Task5OP\Task5OP\obj\Debug\net8.0\Task5OP.csproj.CoreCompileInputs.cache
+C:\Users\pryim\RiderProjects\Task5OP\Task5OP\obj\Debug\net8.0\Task5OP.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pryim\RiderProjects\Task5OP\Task5OP\obj\Debug\net8.0\Task5OP.MvcApplicationPartsAssemblyInfo.cache
